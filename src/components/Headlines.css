@@ -1,0 +1,35 @@
+.headline-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-items: center;
+	padding: 10px;
+}
+
+.headline-header-wrapper {
+	display: flex;
+	flex-direction: column;
+	background-color: whitesmoke;
+}
+
+.headline-header {
+	font-family: "Courier New", Courier, monospace;
+}
+
+.headline-content-wrapper {
+	display: flex;
+	flex-flow: column nowrap;
+}
+
+.headline-source {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.headline-summary {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.headline-image {
+	max-height: 200px;
+	max-width: 200px;
+}
