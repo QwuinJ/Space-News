@@ -1,10 +1,13 @@
 .main-site-wrapper {
 	display: flex;
-	flex-flow: row nowrap;
+	flex-flow: column nowrap;
+	align-items: center;
+	justify-content: center;
 }
 
-.main-site-wrapper > div {
-	flex-basis: 50%;
-	padding: 10px;
-	border: 5px solid grey;
+.article-wrapper {
+	display: flex;
+	flex-flow: column wrap;
+	align-items: center;
+	justify-content: center;
 }
