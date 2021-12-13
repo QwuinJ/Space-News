@@ -6,14 +6,18 @@
 	color: grey;
 	font-family: Arial, Helvetica, sans-serif;
 	border-top: 5px solid grey;
+	align-items: center;
+	justify-content: center;
 }
 
 .quote-wrapper {
 	display: flex;
 	flex-flow: column;
+	width: 40%;
 }
 
 .dad-joke-wrapper {
 	display: flex;
 	flex-direction: column;
+	width: 40%;
 }
