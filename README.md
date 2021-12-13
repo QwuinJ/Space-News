@@ -1,4 +1,4 @@
-# Space Facts API Website
+# Space News API Website
 
 This was a website created in React. All information contained is from APIs.
 
